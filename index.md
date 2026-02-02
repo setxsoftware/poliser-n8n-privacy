@@ -8,4 +8,4 @@ Los datos procesados no son compartidos con terceros ni utilizados con fines com
 
 La información se mantiene dentro del entorno de Microsoft 365 de la empresa y del sistema de automatización n8n.
 
-Para consultas o solicitudes de eliminación de datos, contactar a: efernandez_uy@poliser.com.uy
+Para consultas o solicitudes de eliminación de datos, contactar a: setxsoftware@gmail.com o efernandez_uy@poliser.com.uy
